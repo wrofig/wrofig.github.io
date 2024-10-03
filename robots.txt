@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wrofig.github.io/XHo/sitemap.XHo.gz
